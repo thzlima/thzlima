@@ -6,9 +6,9 @@
 
 ### Hello! 👋 Welcome to my profile
 
-- :office: I am currently working at a startup, as a back-end engineer, using PHP, Docker and Postgres to develop the Santenergy.
+- :office: I am currently working at a startup, as a back-end engineer.
 
-- :city_sunrise: In the past I worked with e-commerce and web applications, for about 8 years.
+- :city_sunrise: In the past I worked with e-commerce and web applications, for about 10 years.
 
 - :eyeglasses: I’m currently learning Flutter and Python.
 
